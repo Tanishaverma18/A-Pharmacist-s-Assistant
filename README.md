@@ -18,6 +18,14 @@ The Pharmacist AI Assistant is an intelligent web-based tool designed to assist 
 * Requests (API calls)
 * APIs Used:
           * RXNorm API (Drug validation)
+  
+## Required Libraries
+Flask<br>
+OpenCV<br>
+NumPy<br>
+pytesseract<br>
+SQLite3<br>
+Requests<br>
 
 ## Installation & Setup
 Clone the Repository<br>
