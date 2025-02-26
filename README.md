@@ -20,25 +20,25 @@ The Pharmacist AI Assistant is an intelligent web-based tool designed to assist 
           * RXNorm API (Drug validation)
 
 ## Installation & Setup
-Clone the Repository
-git clone https://github.com/yourusername/pharmacist-ai-assistant.git
+Clone the Repository<br>
+git clone https://github.com/yourusername/pharmacist-ai-assistant.git<br>
 cd pharmacist-ai-assistant
 
 Create a Virtual Environment (Optional but Recommended)
-ython -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
+python -m venv venv<br>
+source venv/bin/activate  # On Windows use: venv\Scripts\activate<br>
 
 Install Dependencies
 pip install -r requirements.txt
 
 Initialize the Database
-python app.py
+python app.py<br>
 (This will create the pharmacist.db file automatically.)
 
-Run the Flask App
+Run the Flask App<br>
 flask run
 
-Access the Application
+Access the Application<br>
 Open your browser and go to: http://127.0.0.1:5000
 
 ## Usage
