@@ -8,6 +8,9 @@ The Pharmacist AI Assistant is an intelligent web-based tool designed to assist 
 * User-Friendly Interface: Built using Flask, HTML, CSS, and JavaScript.
 * Secure and Scalable: Ensures privacy and data integrity with secure handling of patient information.
 
+## Demo
+Watch the project in action: [Screen Recording](https://drive.google.com/file/d/1c74VzPkbdrUPye7JRUNNYkSEYuwjoeSI/view?usp=drive_link)
+
 ## Technologies Used
 * Programming Languages: Python, HTML, CSS, JavaScript
 * Frameworks & Libraries:
