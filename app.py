@@ -6,7 +6,7 @@ from PIL import Image
 import requests
 
 app = Flask(__name__)
-app.secret_key = '57a17d652cf0c8cfd24ea0f2e3fc9edb'
+app.secret_key = 'Your_secret_key'
 
 DATABASE = 'pharmacist.db'
 
